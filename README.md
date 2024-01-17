@@ -38,7 +38,3 @@ To explore each project, simply navigate to the respective project directories. 
 Feel free to browse, provide feedback, or use this repository as a reference for your own learning journey!
 
 Happy coding! 🚀
-
----
-
-Feel free to customize this description to better fit your experience and the specific details of your projects.
